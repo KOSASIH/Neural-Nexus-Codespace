@@ -1,4 +1,4 @@
-# GitHub Codespaces ♥️ .NET 8
+# Neural Nexus Codespaces ♥️ .NET 8
 
 Want to try out the latest performance improvements coming with .NET 8 for web development? 
 
@@ -14,12 +14,12 @@ Everything you do here is contained within this one codespace. There is no repos
 [![Open in Dev Container](https://img.shields.io/static/v1?style=for-the-badge&label=Dev+Container&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/github/dotnet-codespaces)
 
 You can also run this repository locally by following these instructions: 
-1. Clone the repo to your local machine `git clone https://github.com/bradygaster/dotnet-codespace`
+1. Clone the repo to your local machine `git clone https://github.com/KOSASIH/neural-nexus-codespace`
 1. Open repo in VS Code
 
 ## Getting started
 
-1. **📤 One-click setup**: [Open a new Codespace](https://codespaces.new/github/dotnet-codespaces), giving you a fully configured cloud developer environment.
+1. **📤 One-click setup**: [Open a new Codespace](https://codespaces.new/github/neural-nexus-codespaces), giving you a fully configured cloud developer environment.
 2. **▶️ Run all, one-click again**: Use VS Code's built-in *Run* command and open the forwarded ports *8080* and *8081* in your browser. 
 
 ![](images/RunAll.png)
